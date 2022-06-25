@@ -23,7 +23,7 @@ Matkul : Sistem Basis Data
 
 ![5](https://user-images.githubusercontent.com/101656195/173071421-e442a982-da4e-4fbe-a77b-db835e8191a0.png)
 
-3. Cek hasil melalui link URL : http://localhost/basic_data/home.php
+3. Cek hasil melalui link URL : http://localhost/basis_data/home.php
 
 ![6](https://user-images.githubusercontent.com/101656195/173071427-1cba55b2-aee7-4bf5-bf9d-915a2ad52253.png)
 
